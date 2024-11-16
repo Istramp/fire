@@ -128,3 +128,6 @@ https://github.com/tymondesigns/jwt-auth
 ## License
 
 MIT
+
+## 更新日志
+- 2021-11-24 1.0.0
