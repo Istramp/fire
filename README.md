@@ -45,7 +45,7 @@
 第一步:
 
 ```shell
-$ composer require thans/tp-jwt-auth
+$ composer require istramp/fire:dev-main
 ```
 
 第二步:
@@ -109,14 +109,6 @@ token传参方式如下：
 #### 常见问题
 - 使用RSA256方式的时候，请使用文本形式。如下：
 
-![image](https://thans.cn/Snipaste_2020-01-18_17-25-52.png)
-
-## 联系&打赏
-
-[打赏名单](SUPPORT.md)
-
-![image](https://thans.cn/others/thans.jpeg)
-
 ## 参考与借鉴
 
 https://github.com/tymondesigns/jwt-auth
@@ -126,6 +118,7 @@ https://github.com/tymondesigns/jwt-auth
 - jwt-auth
 - php
 - lcobucci/jwt
+- thans/tp-jwt-auth
 - thinkphp
 
 ## 下一步

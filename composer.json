@@ -1,6 +1,6 @@
 {
     "name": "istramp/fire",
-    "description": "thinkphp  jwt auth composer",
+    "description": "thinkphp jwt auth composer",
     "type": "library",
     "require": {
         "php": "^7.0 || ^8.0",
