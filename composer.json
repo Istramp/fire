@@ -1,5 +1,5 @@
 {
-    "name": "Istramp/fire",
+    "name": "istramp/fire",
     "description": "thinkphp  jwt auth composer",
     "type": "library",
     "require": {
