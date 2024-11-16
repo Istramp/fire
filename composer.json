@@ -1,5 +1,5 @@
 {
-    "name": "thans/tp-jwt-auth",
+    "name": "Istramp/fire",
     "description": "thinkphp  jwt auth composer",
     "type": "library",
     "require": {
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Thans",
-            "email": "360641274@qq.com"
+            "name": "ms",
+            "email": "2193162786@qq.com"
         }
     ],
     "autoload": {
